@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{56DD9A9F-93CC-4201-9D13-9097ACB9EAD4}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HouseEase PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="HouseEase/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="HouseEase/Program.cs" Line="3" Column="22" />
+      <File FileName="HouseEase/appsettings.json" Line="13" Column="1" />
+      <File FileName="HouseEase/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="HouseEase/Views/_ViewImports.cshtml" Line="9" Column="24" />
+      <File FileName="HouseEase/Views/Shared/_AdminMenuPartial.cshtml" Line="11" Column="1" />
+      <File FileName="HouseEase/Views/Shared/_Layout.cshtml" Line="552" Column="27" />
+      <File FileName="HouseEase/Views/Shared/_LayoutLogin.cshtml" Line="1" Column="1" />
+      <File FileName="HouseEase/Views/Shared/_LoginPartial.cshtml" Line="1" Column="1" />
+      <File FileName="HouseEase/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="HouseEase/ViewModel/EditRoleViewModel.cs" Line="1" Column="1" />
+      <File FileName="HouseEase/ViewModel/EditUserViewModel.cs" Line="1" Column="1" />
+      <File FileName="HouseEase/ViewModel/LoginViewModel.cs" Line="13" Column="42" />
+      <File FileName="HouseEase/Areas/Identity/Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="HouseEase/Controllers/AccountController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HouseEase" expanded="True">
+            <Node name="HouseEase" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AccountController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

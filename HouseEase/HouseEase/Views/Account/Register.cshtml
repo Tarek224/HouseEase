@@ -1,0 +1,50 @@
+﻿@model HouseEase.ViewModel.RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_LayoutLogin";
+}
+
+<div class="container">
+    <form asp-action="Register" asp-controller="Account" class="login-form" method="post">
+        <div class="login-wrap">
+            <p class="login-img"><i class="icon_lock_alt"></i></p>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="input-group">
+                <span class="input-group-addon">Email</span>
+                <input asp-for="Email" class="form-control" placeholder="Email">
+            </div>
+            <span asp-validation-for="Email" class="text-danger"></span>
+
+            <div class="input-group">
+                <span class="input-group-addon">Password</span>
+                <input asp-for="Password" class="form-control" placeholder="Password">
+            </div>
+            <span asp-validation-for="Password" class="text-danger"></span>
+
+            <div class="input-group">
+                <span class="input-group-addon">Confirm Password</span>
+                <input asp-for="ConfirmPassword" class="form-control" placeholder="ConfirmPassword">
+            </div>
+            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+
+            <div style="display:flex">
+                <div style="width:50%; border:1px solid #007aff; margin:5px; padding:10px">
+                    <input type="radio" name="RoleId" id="tentant" value="a1eaeb01-3683-43e1-8cr7-b731d0c655dz" checked />
+                    <label for="tentant"> Tentant </label>
+                </div>
+                <div style="width:50%; border:1px solid #007aff; margin:5px; padding:10px">
+                    <input type="radio" name="RoleId" id="owner" value="a1eaeb01-3683-43e1-89k2-b731d0c655dz" />
+                    <label for="owner"> Owner </label>
+                </div>
+            </div>
+
+            <button class="btn btn-primary btn-lg btn-block" type="submit">Next</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

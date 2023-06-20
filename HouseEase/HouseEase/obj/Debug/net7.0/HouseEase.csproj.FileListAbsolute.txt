@@ -1,0 +1,425 @@
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.csproj.AssemblyReference.cache
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.AssemblyInfoInputs.cache
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.AssemblyInfo.cs
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.csproj.CoreCompileInputs.cache
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.RazorAssemblyInfo.cache
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.RazorAssemblyInfo.cs
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/appsettings.json
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.staticwebassets.runtime.json
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.exe
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.deps.json
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.runtimeconfig.json
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.pdb
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Azure.Core.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Azure.Identity.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Humanizer.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/System.Memory.Data.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/System.Runtime.Caching.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.HouseEase.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.build.HouseEase.props
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.HouseEase.props
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.HouseEase.props
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/scopedcss/bundle/HouseEase.styles.css
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/scopedcss/projectbundle/HouseEase.bundle.scp.css
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.csproj.CopyComplete
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/refint/HouseEase.dll
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.pdb
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.genruntimeconfig.cache
+C:/Users/MostafaAli/Desktop/HouseEase/HouseEase/obj/Debug/net7.0/ref/HouseEase.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/appsettings.json
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/HouseEase.staticwebassets.runtime.json
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/HouseEase.exe
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/HouseEase.deps.json
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/HouseEase.runtimeconfig.json
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/HouseEase.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/HouseEase.pdb
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Azure.Core.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Azure.Identity.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Humanizer.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/System.Memory.Data.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/System.Runtime.Caching.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/HouseEase.csproj.AssemblyReference.cache
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/HouseEase.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/HouseEase.AssemblyInfoInputs.cache
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/HouseEase.AssemblyInfo.cs
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/HouseEase.csproj.CoreCompileInputs.cache
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/HouseEase.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/HouseEase.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/HouseEase.RazorAssemblyInfo.cache
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/HouseEase.RazorAssemblyInfo.cs
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.HouseEase.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.build.HouseEase.props
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.HouseEase.props
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.HouseEase.props
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/scopedcss/bundle/HouseEase.styles.css
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/scopedcss/projectbundle/HouseEase.bundle.scp.css
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/HouseEase.csproj.CopyComplete
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/HouseEase.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/refint/HouseEase.dll
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/HouseEase.pdb
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/HouseEase.genruntimeconfig.cache
+C:/Users/osabe/Source/Repos/Omar-Saber97/HouseEase-/HouseEase/obj/Debug/net7.0/ref/HouseEase.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/appsettings.Development.json
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/appsettings.json
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.staticwebassets.runtime.json
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.exe
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.deps.json
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.runtimeconfig.json
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.pdb
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Azure.Core.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Azure.Identity.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Humanizer.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/Mono.TextTemplating.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/System.CodeDom.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/System.Drawing.Common.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/System.Memory.Data.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/System.Runtime.Caching.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/System.Security.Permissions.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/System.Windows.Extensions.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/ACU/house ease/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.csproj.AssemblyReference.cache
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.GeneratedMSBuildEditorConfig.editorconfig
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.AssemblyInfoInputs.cache
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.AssemblyInfo.cs
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.csproj.CoreCompileInputs.cache
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.MvcApplicationPartsAssemblyInfo.cs
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.MvcApplicationPartsAssemblyInfo.cache
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.RazorAssemblyInfo.cache
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.RazorAssemblyInfo.cs
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.HouseEase.Microsoft.AspNetCore.StaticWebAssets.props
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.build.HouseEase.props
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.HouseEase.props
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.HouseEase.props
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets.pack.json
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets.build.json
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets.development.json
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/scopedcss/bundle/HouseEase.styles.css
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/scopedcss/projectbundle/HouseEase.bundle.scp.css
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.csproj.CopyComplete
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.dll
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/refint/HouseEase.dll
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.pdb
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.genruntimeconfig.cache
+D:/ACU/house ease/HouseEase/HouseEase/obj/Debug/net7.0/ref/HouseEase.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/appsettings.Development.json
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/appsettings.json
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.staticwebassets.runtime.json
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.deps.json
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.runtimeconfig.json
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/HouseEase.pdb
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Azure.Core.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Azure.Identity.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Humanizer.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/System.CodeDom.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/System.Drawing.Common.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/System.Memory.Data.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/System.Security.Permissions.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.csproj.AssemblyReference.cache
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.AssemblyInfoInputs.cache
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.AssemblyInfo.cs
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.csproj.CoreCompileInputs.cache
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.RazorAssemblyInfo.cache
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.RazorAssemblyInfo.cs
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.HouseEase.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.build.HouseEase.props
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.HouseEase.props
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.HouseEase.props
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets.pack.json
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets.build.json
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/staticwebassets.development.json
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/scopedcss/bundle/HouseEase.styles.css
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/scopedcss/projectbundle/HouseEase.bundle.scp.css
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.csproj.CopyComplete
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/refint/HouseEase.dll
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.pdb
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/HouseEase.genruntimeconfig.cache
+/Volumes/Backup Plus/graduation/house/HouseEase/HouseEase/obj/Debug/net7.0/ref/HouseEase.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\appsettings.Development.json
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\appsettings.json
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\HouseEase.staticwebassets.runtime.json
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\HouseEase.exe
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\HouseEase.deps.json
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\HouseEase.runtimeconfig.json
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\HouseEase.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\HouseEase.pdb
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Azure.Core.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Azure.Identity.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Humanizer.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\System.CodeDom.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\HouseEase.csproj.AssemblyReference.cache
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\HouseEase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\HouseEase.AssemblyInfoInputs.cache
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\HouseEase.AssemblyInfo.cs
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\HouseEase.csproj.CoreCompileInputs.cache
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\HouseEase.MvcApplicationPartsAssemblyInfo.cs
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\HouseEase.MvcApplicationPartsAssemblyInfo.cache
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\HouseEase.RazorAssemblyInfo.cache
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\HouseEase.RazorAssemblyInfo.cs
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\staticwebassets\msbuild.HouseEase.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\staticwebassets\msbuild.build.HouseEase.props
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HouseEase.props
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HouseEase.props
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\staticwebassets.build.json
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\staticwebassets.development.json
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\scopedcss\bundle\HouseEase.styles.css
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\scopedcss\projectbundle\HouseEase.bundle.scp.css
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\HouseEase.csproj.CopyComplete
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\HouseEase.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\refint\HouseEase.dll
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\HouseEase.pdb
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\HouseEase.genruntimeconfig.cache
+D:\Tarek\3omar Saber\GradProject\house\HouseEase\HouseEase\obj\Debug\net7.0\ref\HouseEase.dll

@@ -1,0 +1,50 @@
+﻿@model HouseEase.ViewModel.TentantViewModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_LayoutLogin";
+}
+
+<div class="container">
+    <form asp-action="OwnerInformation" asp-controller="Account" class="login-form" method="post">
+        <div class="login-wrap">
+            <p class="login-img"><i class="icon_lock_alt"></i></p>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="input-group">
+                <span class="input-group-addon"> 🙂 Full Name</span>
+                <input asp-for="FullName" class="form-control" placeholder="Full Name">
+            </div>
+            <span asp-validation-for="FullName" class="text-danger"></span>
+
+            <div class="input-group">
+                <span class="input-group-addon"> 📱Phone Number</span>
+                <input asp-for="MobileNumber" class="form-control" placeholder="Ex.011.....">
+            </div>
+            <span asp-validation-for="MobileNumber" class="text-danger"></span>
+
+            <div class="input-group">
+                <span class="input-group-addon">Job Title</span>
+                <input asp-for="JobTitle" class="form-control" placeholder="Ex.Enginner">
+            </div>
+            <span asp-validation-for="JobTitle" class="text-danger"></span>
+
+            <div class="input-group">
+                <span class="input-group-addon">Birth Date</span>
+                <input asp-for="DateOfBirth" class="form-control">
+            </div>
+            <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+
+            <div class="input-group">
+                <span class="input-group-addon">Maritial Status</span>
+                <select asp-for="MaritialStatus" class="form-control" asp-items="Html.GetEnumSelectList<MaritialStatus>()"></select>
+            </div>
+
+            <button class="btn btn-primary btn-lg btn-block" type="submit">Register</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

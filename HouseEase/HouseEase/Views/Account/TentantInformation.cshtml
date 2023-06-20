@@ -1,0 +1,76 @@
+﻿@model HouseEase.ViewModel.TentantViewModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_LayoutLogin";
+}
+
+<div class="container">
+    <form asp-action="TentantInformation" asp-controller="Account" class="login-form" method="post">
+        <div class="login-wrap">
+            <p class="login-img"><i class="icon_lock_alt"></i></p>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="input-group">
+                <span class="input-group-addon"> 🙂 Full Name</span>
+                <input asp-for="FullName" class="form-control" placeholder="Full Name">
+            </div>
+            <span asp-validation-for="FullName" class="text-danger"></span>
+
+            <div class="input-group">
+                <span class="input-group-addon"> 📱Phone Number</span>
+                <input asp-for="MobileNumber" class="form-control" placeholder="Ex.011.....">
+            </div>
+            <span asp-validation-for="MobileNumber" class="text-danger"></span>
+
+            <div class="input-group">
+                <span class="input-group-addon">Job Title</span>
+                <input asp-for="JobTitle" class="form-control" placeholder="Ex.Enginner">
+            </div>
+            <span asp-validation-for="JobTitle" class="text-danger"></span>
+
+            <div class="input-group">
+                <span class="input-group-addon">Birth Date</span>
+                <input asp-for="DateOfBirth" class="form-control">
+            </div>
+            <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+
+            <div class="input-group">
+                <span class="input-group-addon">Maritial Status</span>
+                <select asp-for="MaritialStatus" class="form-control" asp-items="Html.GetEnumSelectList<MaritialStatus>()"></select>
+            </div>
+
+            <div class="input-group">
+                <span class="input-group-addon">Governurate</span>
+                <select asp-for="GovernurateId" class="form-control" asp-items="@ViewBag.Govs" id="governerate"></select>
+            </div>
+
+            <div class="input-group" id="cityDev">
+                <span class="input-group-addon">City</span>
+                <select asp-for="CityId" class="form-control" id="city"></select>
+            </div>
+
+            <div class="input-group">
+                <span class="input-group-addon">University</span>
+                <select asp-for="UniversityId" class="form-control" asp-items="@ViewBag.Univ" id="university"></select>
+            </div>
+
+            <div class="input-group" id="facultyDev">
+                <span class="input-group-addon">City</span>
+                <select asp-for="FucltyId" class="form-control" id="faculty"></select>
+            </div>
+
+            <div style="width:50%; border:1px solid #007aff; margin:5px; padding:10px">
+                <span style="margin-right:10px">Smoking ?</span>
+                @Html.CheckBoxFor(m => m.IsSmoking , new { @class = "form-check"})
+            </div>
+
+            <button class="btn btn-primary btn-lg btn-block" type="submit">Register</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/js/myscript.js"></script>
+}
